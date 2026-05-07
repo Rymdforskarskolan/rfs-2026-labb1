@@ -155,5 +155,5 @@ Du skall konstruera ett program som räknar ut hur du kan dela upp en godtycklig
 - 1 kr
 *Ledning:* Modulo (`%`) är din vän, likaså tillsättande operatörer som `+=` och `-=`. Även trunkerande division (`//`) kan vara fiffigt.
 
-För att låsa upp facit: Beräkna växeln av 135874348 kr. Nyckeln kommer att vara\ "`<1000><500><200><100><50><20><10><5><2><1>`" där du sätter in antal för varje sedel. En hypotetisk nycket skulle kunna vara "2120001010". noterat att "`<1000>`" kan vara mycket större än en siffra, men det är okej och formatet följs ändå.
+För att låsa upp facit: Beräkna växeln av 135874348 kr. Nyckeln kommer att vara "`<1000><500><200><100><50><20><10><5><2><1>`" där du sätter in antal för varje sedel. En hypotetisk nycket skulle kunna vara "2120001010". noterat att "`<1000>`" kan vara mycket större än en siffra, men det är okej och formatet följs ändå.
 // Svar: 135874011020111
